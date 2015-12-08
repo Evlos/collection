@@ -21,6 +21,8 @@ TinyMCE | [https://github.com/tinymce/tinymce](https://github.com/tinymce/tinymc
 Simditor | [https://github.com/mycolorway/simditor](https://github.com/mycolorway/simditor) | WYSIWYG Tower.im
 Kity Minder | [https://github.com/fex-team/kityminder](https://github.com/fex-team/kityminder) | Mindmap
 MediumEditor | [https://github.com/yabwe/medium-editor](https://github.com/yabwe/medium-editor) | WYSIWYG Medium.com
+**Slideshow** |||
+Swiper | [http://www.idangero.us/swiper/](http://www.idangero.us/swiper/) | Mobile touch slider
 **用户交互** |||
 Close | [https://github.com/amazeui/amazeui-react](https://github.com/amazeui/amazeui-react) | \<Close\> 组件，关闭按钮
 SweetAlert | [https://github.com/t4t5/sweetalert](https://github.com/t4t5/sweetalert) | 对话框, iOS 兼容好
