@@ -9,6 +9,7 @@ pprint | [https://docs.python.org/3.5/library/pprint.html](https://docs.python.o
 **组件类库** ||
 SQLAlchemy | [https://github.com/zzzeek/sqlalchemy](https://github.com/zzzeek/sqlalchemy) | ORM
 path.py | [https://github.com/jaraco/path.py](https://github.com/jaraco/path.py) | Implements a path objects as entities
+Flanker | [https://github.com/mailgun/flanker](https://github.com/mailgun/flanker) | Email address and Mime parsing
 **HTML相关** ||
 pelican | [https://github.com/getpelican/pelican](https://github.com/getpelican/pelican) | Static site generator
 **框架系统** ||
