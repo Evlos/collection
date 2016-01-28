@@ -32,6 +32,13 @@ Tooltip | [https://github.com/HubSpot/tooltip](https://github.com/HubSpot/toolti
 Readmore.js | [http://jedfoster.com/Readmore.js](http://jedfoster.com/Readmore.js) | 隐藏显示一块区域
 **组件相关** ||
 React Router | [https://github.com/rackt/react-router](https://github.com/rackt/react-router) | Routing solution for React.js
+vue-router | [http://vuejs.github.io/vue-router](http://vuejs.github.io/vue-router) | Vue.JS router
+vue-async-data | [https://github.com/vuejs/vue-async-data](https://github.com/vuejs/vue-async-data) | Async data loading plugin
+Bluebird | [https://github.com/petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) | Full featured promise library
+lodash | [https://github.com/lodash/lodash](https://github.com/lodash/lodash) | JavaScript utility library
+Moment | [https://github.com/moment/moment](https://github.com/moment/moment) | Parse, validate, manipulate, and display dates
+PubSubJS | [https://github.com/mroderick/PubSubJS](https://github.com/mroderick/PubSubJS) | Dependency free publish/subscribe
+twbs-pagination | [https://github.com/esimakin/twbs-pagination](https://github.com/esimakin/twbs-pagination) | Bootstrap jQuery pagination plugin
 **页面滚动** ||
 Waypoints | [https://github.com/imakewebthings/waypoints](https://github.com/imakewebthings/waypoints) | 页面滚动位置触发
 Headroom.js | [http://www.bootcss.com/p/headroom.js](http://www.bootcss.com/p/headroom.js) | 下滚页面头部自动向上隐藏
@@ -39,13 +46,15 @@ Headroom.js | [http://www.bootcss.com/p/headroom.js](http://www.bootcss.com/p/he
 zepto.fullpage | [https://github.com/yanhaijing/zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage) | 专注于移动端的 fullPage.js
 fullPage.js | [https://github.com/alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) | iOS 兼容不好, 11000+ stars
 **加载相关** ||
-NProgress.js | [http://ricostacruz.com/nprogress/](http://ricostacruz.com/nprogress/) | 加载进度条
+NProgress.js | [http://ricostacruz.com/nprogress/](http://ricostacruz.com/nprogress/) | 加载进度条，多处异步同时执行正常
 waitMe | [http://vadimsva.github.io/waitMe/](http://vadimsva.github.io/waitMe/) | 加载进度条, 表单提交动画
 Animsition | [https://github.com/blivesta/animsition](https://github.com/blivesta/animsition) | 换页效果
+ProgressJs | [https://github.com/usablica/progress.js](https://github.com/usablica/progress.js) | 加载进度条，多处异步同时执行会有问题
 **特殊效果** ||
 OriDomi | [https://github.com/dmotz/oriDomi](https://github.com/dmotz/oriDomi) | 像纸一样折叠页面元素
 **元素生成** ||
 jquery.qrcode.js | [https://github.com/jeromeetienne/jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode) | 二维码生成
+Font Awesome | [https://github.com/FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | Iconic font
 **视差滚动** ||
 skrollr | [https://github.com/Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) | 一般, 有点卡
 jquery.parallax | [https://github.com/stephband/jparallax](https://github.com/stephband/jparallax) | 根据鼠标位置的多层视差效果
@@ -56,5 +65,11 @@ Slideout.js | [https://github.com/mango/slideout](https://github.com/mango/slide
 WeUI | [https://github.com/weui/weui](https://github.com/weui/weui) | WeUI 为微信 Web 服务量身设计
 GMU | [https://github.com/fex-team/GMU](https://github.com/fex-team/GMU) | 基于 zepto 的 mobile UI 库
 FrozenUI | [https://github.com/frozenui/frozenui](https://github.com/frozenui/frozenui) | 腾讯的 CSS 组件库
+**图形报表** ||
+ECharts | [https://github.com/ecomfe/echarts](https://github.com/ecomfe/echarts) | Charting and visualization library
+**页面样式** ||
+Bootswatch | [https://bootswatch.com](https://bootswatch.com) | Themes for Bootstrap
 **开发工具** ||
 Fiddler | [http://www.telerik.com/fiddler](http://www.telerik.com/fiddler) | Web debugging proxy
+CSON loader | [https://github.com/awnist/cson-loader](https://github.com/awnist/cson-loader) | CSON loader module for webpack
+CSS loader | [https://github.com/webpack/css-loader](https://github.com/webpack/css-loader) | CSS loader module for webpack
