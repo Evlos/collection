@@ -32,5 +32,5 @@ SciPy | [http://www.scipy.org](http://www.scipy.org) | 提供一系列软件包�
 **科学计算** ||
 Theano | [http://deeplearning.net/software/theano](http://deeplearning.net/software/theano) | Mathematical expressions
 GraphLab| [https://dato.com/products/create/open_source.html](https://dato.com/products/create/open_source.html) |
-** 相关项目** ||
+**相关项目** ||
 awesome-python | [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python) | 17k+ stars
