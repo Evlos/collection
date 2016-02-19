@@ -19,6 +19,15 @@ Django | [https://github.com/django/django](https://github.com/django/django) | 
 Tornado | [https://github.com/tornadoweb/tornado](https://github.com/tornadoweb/tornado) | Python web framework
 Scrapy | [https://github.com/scrapy/scrapy](https://github.com/scrapy/scrapy) | 爬虫库
 WeRoBot | [https://github.com/whtsky/WeRoBot](https://github.com/whtsky/WeRoBot) | 微信机器人框架
+Cornice | [https://github.com/mozilla-services/cornice](https://github.com/mozilla-services/cornice) | Restful services
+Eve | [https://github.com/nicolaiarocci/eve](https://github.com/nicolaiarocci/eve) | REST API Framework
+**数据验证** ||
+Colander | [https://github.com/Pylons/colander](https://github.com/Pylons/colander) | Validating XML and JSON
+email_validator | [https://github.com/JoshData/python-email-validator](https://github.com/JoshData/python-email-validator) | Email syntax and deliverability validation
+Cerberus | [https://github.com/nicolaiarocci/cerberus](https://github.com/nicolaiarocci/cerberus) | Data validation library
+**Hash类库** ||
+bcrypt | [https://github.com/pyca/bcrypt/](https://github.com/pyca/bcrypt/) | Password hashing
+passlib | [https://bitbucket.org/ecollins/passlib/wiki/Home](https://bitbucket.org/ecollins/passlib/wiki/Home) | Password hashing
 **网络类库** ||
 HTTPie | [https://github.com/jkbrzt/httpie](https://github.com/jkbrzt/httpie) |
 **图形动画** ||
