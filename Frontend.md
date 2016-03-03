@@ -11,6 +11,7 @@ Pikaday | [https://github.com/dbushell/Pikaday](https://github.com/dbushell/Pika
 jQuery File Upload Plugin | [https://github.com/blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | 文件上传
 simple-uploader | [https://github.com/mycolorway/simple-uploader](https://github.com/mycolorway/simple-uploader) | 文件上传, 无 UI
 Chosen | [https://github.com/harvesthq/chosen](https://github.com/harvesthq/chosen) | 下拉菜单, tag 选择
+iCheck | [https://github.com/fronteed/iCheck](https://github.com/fronteed/iCheck) | 跨平台 / 浏览器的 CHECKBOXES & RADIO BUTTONS
 **编辑器类** ||
 Ace | [https://ace.c9.io/#nav=about](https://ace.c9.io/#nav=about) | 代码编辑器
 micromarkdown.js | [https://github.com/simonwaldherr/micromarkdown.js/](https://github.com/simonwaldherr/micromarkdown.js/) | Markdown, 60+ stars
@@ -30,6 +31,7 @@ Messenger | [https://github.com/HubSpot/messenger](https://github.com/HubSpot/me
 Progress | [https://github.com/amazeui/amazeui-react](https://github.com/amazeui/amazeui-react) | 进度条
 Tooltip | [https://github.com/HubSpot/tooltip](https://github.com/HubSpot/tooltip) | Tooltip
 Readmore.js | [http://jedfoster.com/Readmore.js](http://jedfoster.com/Readmore.js) | 隐藏显示一块区域
+toastr | [https://github.com/CodeSeven/toastr](https://github.com/CodeSeven/toastr) | 在右上角弹出通知
 **组件相关** ||
 React Router | [https://github.com/rackt/react-router](https://github.com/rackt/react-router) | Routing solution for React.js
 vue-router | [http://vuejs.github.io/vue-router](http://vuejs.github.io/vue-router) | Vue.JS router
