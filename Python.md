@@ -12,7 +12,7 @@ path.py | [https://github.com/jaraco/path.py](https://github.com/jaraco/path.py)
 Flanker | [https://github.com/mailgun/flanker](https://github.com/mailgun/flanker) | Email address and Mime parsing
 **日期时间** ||
 Arrow | [https://github.com/crsmithdev/arrow](https://github.com/crsmithdev/arrow) | Dealing with time
-moment | [https://github.com/zachwill/moment](https://github.com/zachwill/moment) | Moment.js in Python
+moment **(abandoned)** | [https://github.com/zachwill/moment](https://github.com/zachwill/moment) | Moment.js in Python2
 **HTML相关** ||
 pelican | [https://github.com/getpelican/pelican](https://github.com/getpelican/pelican) | Static site generator
 **框架系统** ||
